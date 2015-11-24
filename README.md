@@ -1,7 +1,9 @@
 UEFA Euro 2016
 ========
 
-Develop [![Develop](https://travis-ci.org/EvgenSalyakin/euro2016.svg?branch=dev)](https://travis-ci.org/EvgenSalyakin/euro2016)
+Master: Under construction
+
+Develop: [![Develop](https://travis-ci.org/EvgenSalyakin/euro2016.svg?branch=dev)](https://travis-ci.org/EvgenSalyakin/euro2016)
 
 Після успішного виходу збірної України на Євро 2016, до нашої команди звернувся клієнт із замовленням. Він хоче, щоб ми зробили 
 невеличкий сайт всіх збірних, що пройшли на Євро 2016.
